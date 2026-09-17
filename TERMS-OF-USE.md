@@ -1,6 +1,7 @@
 # 利用規約 / Terms of Use
 
 このフォントは無料で利用できます。
+たくさん使っていただけると嬉しいです！創作活動の中でぜひ自由に活用してください。
 
 ## 日本語
 
@@ -21,6 +22,7 @@
 
 This font is free to use.
 
+- Please feel free to use this font as much as you like in your creative work. I’m always happy to see it being used!
 - Personal use: Allowed
 - Commercial use: Allowed
 - Doujin / indie creative use: Allowed
