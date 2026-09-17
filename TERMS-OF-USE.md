@@ -72,6 +72,8 @@ There are no major changes to the basic policy, but permitted and prohibited use
 - AI学習への取り込み
 - 当フォントデータをダウンロードした本人以外のユーザーが、自由に文字制作へ利用できる状態でWeb上へアップロードする行為
 - このフォントの文字そのものを「文字デザイン」として、グッズやスタンプ等にして販売・頒布する行為
+- 例：”あ”　や ”こんにちは” など
+- ！フォントをタイトルやネーミングロゴとして使用し、そのロゴを商品やグッズに使用することは問題ありません。
 - このフォントのデザインを使用したロゴ等を商標登録する行為
 - フォントデータの譲渡、再配布、転売
 - 誹謗中傷、嫌がらせ、その他迷惑行為への利用
@@ -81,6 +83,8 @@ There are no major changes to the basic policy, but permitted and prohibited use
 - Use of the font data for AI training is prohibited.
 - Uploading the font data to any web service or online environment where users other than the original purchaser or downloader can freely use it to create text is prohibited.
 - Selling or distributing merchandise, stickers, stamps, or similar products where the font characters themselves are used primarily as the character design is prohibited.
+- ！Using this font as part of a title or naming logo, and then using that logo on merchandise or products, is allowed.
+
 - Registering a logo, mark, or other design created using this font as a trademark is prohibited.
 - Redistribution, transfer, resale, or sharing of the font data is prohibited.
 - Use of this font for defamation, harassment, or other harmful or abusive purposes is prohibited.
@@ -92,15 +96,6 @@ There are no major changes to the basic policy, but permitted and prohibited use
 - お絵かきアプリやWebサービス等で、すべてのユーザーが利用できる形で導入したい場合は、事前に制作者へ案件としてご相談ください。
 
 - If you would like to make this font available for all users within a drawing app, web service, or other software platform, please contact the creator in advance regarding licensing or collaboration.
-
----
-
-## 補足 / Additional Notes
-
-フォントをタイトルやネーミングロゴとして使用し、そのロゴを商品やグッズに使用することは問題ありません。
-
-Using this font as part of a title or naming logo, and then using that logo on merchandise or products, is allowed.
-
 ---
 
 ## 免責事項 / Disclaimer
