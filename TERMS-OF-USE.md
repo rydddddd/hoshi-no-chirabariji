@@ -21,8 +21,7 @@
 ## English
 
 This font is free to use.
-
-- Please feel free to use this font as much as you like in your creative work. I’m always happy to see it being used!
+Please use this font as much as you like. Seeing it used in many creative works makes the effort of creating it feel worthwhile.
 - Personal use: Allowed
 - Commercial use: Allowed
 - Doujin / indie creative use: Allowed
