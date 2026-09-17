@@ -6,6 +6,7 @@ A free design font inspired by constellations, shooting stars, and sparkling lig
 
 ---
 
+![Hoshi no Chirabariji Preview](./previewhoshi.png)
 ## 無料版 / Free Version
 
 このリポジトリには「星のちらばりじ」の無料版が収録されています。
