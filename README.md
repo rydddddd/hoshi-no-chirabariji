@@ -7,7 +7,7 @@ A free design font inspired by constellations, shooting stars, and sparkling lig
 ---
 
 ![Hoshi no Chirabariji Preview](./previewhoshi.png)
-![Hoshi no Chirabariji Preview](./gitohabuyou1.png)
+![Hoshi no Chirabariji Preview](./preview.png)
 
 ## 無料版 / Free Version
 
