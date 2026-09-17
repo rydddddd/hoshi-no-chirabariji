@@ -5,6 +5,7 @@ A free design font inspired by constellations, shooting stars, and sparkling lig
 ## Free Version
 
 This repository contains the free version of Hoshi no Chirabariji.
+Includes Hiragana and Kanji, with approximately 1,214 characters in total.
 
 Included:
 - Hiragana
