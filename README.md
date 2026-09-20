@@ -13,7 +13,7 @@ A free design font inspired by constellations, shooting stars, and sparkling lig
 
 このリポジトリには「星のちらばりじ」の無料版が収録されています。
 
-ひらがな、漢字、計1214字ほど入っています。
+ひらがな、漢字、計1221字ほど入っています。
 
 This repository contains the free version of Hoshi no Chirabariji.
 
